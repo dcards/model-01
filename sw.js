@@ -1,4 +1,4 @@
-var CACHE_NAME = 'angel-models-card-v01-offline-01';
+var CACHE_NAME = 'angel-models-card-v01-01';
 var urlsToCache = [
 	'/card/',
 	'/card/index.html',
